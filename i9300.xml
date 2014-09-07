@@ -13,7 +13,7 @@
 
   <remote name="linaro"
 
-           fetch="git://android.git.linaro.org/" />
+           fetch="https://github.com/CM-i9300-builds/android_device_samsung_i9300.git" />
 
   <remote name="mozilla"
 
