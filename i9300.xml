@@ -188,7 +188,12 @@ fetch="git://github.com/mozilla/" />
   <project path="system/vold" name="platform/system/vold" />
 
 
-  <!-- Cosas de tu dispositivo  -->
+  <!-- Samsung i9300 -->
+  <project path="sourcefix" name="cmtogecko" remote="feherneoh" />
+  <project path="vendor/neoh" name="vendor_neoh" remote="feherneoh" revision="ffos" />
+  <project path="device/samsung/i9300" name="device_samsung_i9300" remote="feherneoh" revision="ffos" />
+  <project path="kernel/samsung/smdk4412" name="CyanogenMod/android_kernel_samsung_smdk4412" remote="github" />
+  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="ics"/>
 
 
 
